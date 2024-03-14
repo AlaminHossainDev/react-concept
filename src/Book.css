@@ -1,0 +1,8 @@
+.book {
+  color: rgb(255, 172, 104);
+  border: 2px solid dashed;
+  background-color: rgb(21, 0, 138);
+  padding: 10px 50px;
+  margin-top: 5px;
+  border-radius: 10px;
+}
